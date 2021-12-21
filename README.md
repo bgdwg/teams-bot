@@ -2,6 +2,15 @@
 
 Simple Q&amp;A bot for Microsoft Teams
 
+### TO-DO
+       
+- [ ] add backend database (postgresql)
+- [ ] deploy bot in azure cloud
+- [ ] http routing for deeppavlov bert
+- [ ] add messaging system (kafka)
+- [ ] improve functionality
+- [ ] documentation to functions
+
 # guide
 
 Необходимо установить и настроить pyenv , чтобы иметь возможность
